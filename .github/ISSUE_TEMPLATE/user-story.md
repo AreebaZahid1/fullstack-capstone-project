@@ -1,21 +1,32 @@
 ---
 name: User Story
-about: This template defines a user story
-title: ''
-labels: ''
-assignees: ''
-
+about: Create a user story for the GiftLink application
+title: ""
+labels: new
+assignees: ""
 ---
 
-**As a** [role]
-**I need** [function]
-**So that** [benefit]
+# User Story
 
-### Details and Assumptions
-    * [document what you know]
+## Title
+<!-- Give the user story a short and clear title -->
 
-### Acceptance Criteria
-    gherkin
-    Given [some context]
-    When [certain action is taken]
-    Then [the outcome of action is observed]
+## User Story
+
+**As a** [type of user],
+
+**I want** [goal or feature],
+
+**So that** [reason or benefit].
+
+## Acceptance Criteria
+
+- [ ] The feature works as expected.
+- [ ] The user can complete the required action.
+- [ ] Appropriate validation is provided.
+- [ ] Appropriate error messages are displayed.
+- [ ] The feature works with the GiftLink application.
+
+## Additional Information
+
+<!-- Add any additional details, screenshots, or notes here. -->
